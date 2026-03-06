@@ -1,0 +1,36 @@
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcworkspace
+*.xcodeproj
+/Script/
+*.DS_Store
+
+# Compiled source
+*.o
+*.obj
+*.exe
+*.dll
+*.dylib
+
+# Visual Studio
+.vs/
+
+# Xcode
+xcuserdata/
+
+# Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
